@@ -1,2 +1,2 @@
 # Full-Stack-Dashboard-to-Website-Project
-A powerful full-stack application that combines a dynamic dashboard editor with a real-time website builder. 
+A powerful full-stack application that combines a dynamic dashboard editor with a real-time website builder. This project allows users to seamlessly edit website templates through an intuitive dashboard interface, with instant changes reflected on the live website. Built with React, Tailwind CSS, Express, and PostgreSQL, the platform provides a user-friendly experience, enabling customization of layouts and content without any coding expertise. Perfect for creating and managing personalized websites effortlessly.
